@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 require 'fileutils'
 
-# path to your application root.
+# path to your application chatroom.
 APP_ROOT = File.expand_path('..', __dir__)
 
 def system!(*args)
